@@ -16,10 +16,10 @@ class MyApp extends StatelessWidget {
           children: <Widget>[
             CircleAvatar(
               radius: 50.0,
-              backgroundImage: AssetImage('images/angela.jpg'),
+              backgroundImage: AssetImage('images/foto.jpg'),
             ),
             Text(
-              'Angela Yu',
+              'Semih TERECİ',
               style: TextStyle(
                 fontFamily: 'Pacifico',
                 fontSize: 40.0,
@@ -28,7 +28,7 @@ class MyApp extends StatelessWidget {
               ),
             ),
             Text(
-              'FLUTTER DEVELOPER',
+              'SOFTWARE ENGINEER',
               style: TextStyle(
                 fontFamily: 'Source Sans Pro',
                 color: Colors.teal.shade100,
@@ -52,7 +52,7 @@ class MyApp extends StatelessWidget {
                     color: Colors.teal,
                   ),
                   title: Text(
-                    '+44 123 456 789',
+                    '+90 999 999 9999',
                     style: TextStyle(
                       color: Colors.teal.shade900,
                       fontFamily: 'Source Sans Pro',
@@ -68,7 +68,7 @@ class MyApp extends StatelessWidget {
                     color: Colors.teal,
                   ),
                   title: Text(
-                    'angela@email.com',
+                    'stereci@gmail.com',
                     style: TextStyle(
                         fontSize: 20.0,
                         color: Colors.teal.shade900,
